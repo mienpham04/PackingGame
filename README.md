@@ -23,4 +23,5 @@
 - **GUI Framework**: JavaFX
 - **Principles**: Object-Oriented Programming (OOP)
 
-[Watch the game demo]([https://drive.google.com/file/d/1KDVle4MI4xFM6JbMWK-TyKNOGwRI0aF3/view?usp=sharing])
+## Demo
+[Watch the game demo](https://drive.google.com/file/d/1KDVle4MI4xFM6JbMWK-TyKNOGwRI0aF3/view?usp=sharing)
